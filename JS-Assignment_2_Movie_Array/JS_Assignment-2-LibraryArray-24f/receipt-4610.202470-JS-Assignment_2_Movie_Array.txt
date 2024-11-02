@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: 4610.202470, Front-End Web Development - HTTP-5122-0NA
+Assessment: JS-Assignment_2_Movie_Array
+
+Submission date: 9/28/24, 11:38 PM (Late)
+Submission size: 2.4 KB
+Submitter: Dilkhush Yadav
+Confirmation number: 84589d8933b0427da03f3deadaef2072
